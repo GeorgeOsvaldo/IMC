@@ -7,7 +7,7 @@ que al añadir individualmente el apellido paterno y el materno tendria que impr
 para lo que se uso  (nombre_completo = nombre + " " + apellido_paterno + " " + apellido_materno)
 para esta funcion.
 
-El bootcamp me esta mostrando que el lunguaje que se usa en python es algo similar a H++ 
+El bootcamp me esta mostrando que el lunguaje que se usa en python es algo similar a C++ 
 puesto que tiene una forma de escribirse muy similar 
 pero este tiene una mayor facilidad en escribirse por lo que e visto hasta el momento,
 pero creo que aun me falta por aprender de este lunguaje y espero aprender mas.
